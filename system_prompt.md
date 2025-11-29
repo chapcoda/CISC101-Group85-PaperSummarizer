@@ -129,3 +129,10 @@ Formatting Requirements	- Use clear Markdown structure. - Output must include he
 Summary Logic	- “short” = 1–2 sentence summary per section. - “detailed” = small paragraph + 3–5 bullet points per section.
 Safety / Validity Rules	- If insufficient data: say “The source text does not provide enough information.” - Never assume information not present. - Check for hallucinations and contradicting statements.
 Glossary Behavior	- Extract 5–10 key technical terms. - Definitions must come only from the paper or must be simplified neutrally without adding new facts.
+
+Internal reference framework
+Architecture overview
+Pipeline order...
+...
+Validation gates:
+...
