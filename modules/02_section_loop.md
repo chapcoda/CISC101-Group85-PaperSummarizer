@@ -1,1 +1,3 @@
-
+02_section_loop.md
+Purpose
+Iterate sections in order and produce section-level summaries...
