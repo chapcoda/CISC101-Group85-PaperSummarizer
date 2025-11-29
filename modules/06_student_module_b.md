@@ -1,1 +1,3 @@
-
+06_equation_explainer.md
+Purpose
+Identify equations or formal expressions...
